@@ -1,4 +1,4 @@
-# # Unix Time Panel
+# Unix Time Panel
 
 Adding the unix time to the panel 
 
