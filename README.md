@@ -2,7 +2,7 @@
 
 Adding the unix time to the panel 
 
-Also the name is a placeholer if you can think of something better please make a pull request where you add it in here " "
+Also the name is a placeholer if you can think of something better please make a pull request where you add it in here ""
 
 ## Installation
 
@@ -20,8 +20,9 @@ Watch time go past in the nerdiest way possible
 
 ## Help
 
-Create an issue at [Issue](https://github.com/Thubs/Unix-Time-Panel/issues)
+Create an issue on [Issue](https://github.com/Thubs/Unix-Time-Panel/issues)
 
 Email me at [Thuble@protonmail.com](mailto:Thuble@protonmail.com)
 
 and if you know how to fix the issue, please create a pull request at [Pulls](https://github.com/Thubs/Unix-Time-Panel/pulls)
+
