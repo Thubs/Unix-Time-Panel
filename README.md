@@ -20,7 +20,7 @@ Watch time go past in the nerdiest way possible
 
 ## Help
 
-Create an issue on [Issue](https://github.com/Thubs/Unix-Time-Panel/issues)
+Create an issue at [Issue](https://github.com/Thubs/Unix-Time-Panel/issues)
 
 Email me at [Thuble@protonmail.com](mailto:Thuble@protonmail.com)
 
