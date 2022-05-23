@@ -2,7 +2,7 @@
 
 Adding the unix time to the panel 
 
-Also the name is a placeholer if you can think of something better please make a pull request where you add it in here ""
+Also the name is a placeholer if you can think of something better please make a pull request where you add it in here " "
 
 ## Installation
 
