@@ -9,7 +9,7 @@ Also the name is a placeholer if you can think of something better please make a
 ### Dependencies
 
     * Python 3.6+
-
+    
 ### Install and run
 
 In progress...
@@ -25,4 +25,3 @@ Create an issue on [Issue](https://github.com/Thubs/Unix-Time-Panel/issues)
 Email me at [Thuble@protonmail.com](mailto:Thuble@protonmail.com)
 
 and if you know how to fix the issue, please create a pull request at [Pulls](https://github.com/Thubs/Unix-Time-Panel/pulls)
-
